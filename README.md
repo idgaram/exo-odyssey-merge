@@ -1,3 +1,3 @@
-# exo-odyssey-merge
+# exo-odyssey-merge REMOTE
 quelques lignes
 en plus
